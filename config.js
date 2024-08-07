@@ -7,7 +7,7 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "254111728536"
+global.botnumber = "2348120549697"
 global.confirmcode = ""
 
 global.owner = [
@@ -19,7 +19,7 @@ global.owner = [
 ];
 
 global.suittag = ['254794597254'];
-global.prems = ['254794597254'];
+global.prems = ['2348120549697'];
 
 global.packname = '𒁂⃝ᰲĴΔ¥Đ€Ň ƤΔƤƗƗ™ ͟͞';
 global.author = '★𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓★';
